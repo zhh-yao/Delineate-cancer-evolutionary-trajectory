@@ -1,2 +1,2 @@
-# Unraveling Heterogeneity of Cancer Evolution by Multiscale Modeling and Statistical Analysis from the Pespective of Subclonal Dynamics
-This is the full code for Manuscript "Unraveling Heterogeneity of Cancer Evolution by Multiscale Modeling and Statistical Analysis from the Perspective of Subclonal Dynamics"
+# A novel multiscale computational framework for delineating heterogeneous tumour growth dynamics from subclonal compositions
+This is the full code for Manuscript "A novel multiscale computational framework for delineating heterogeneous tumour growth dynamics from subclonal compositions"
