@@ -1,4 +1,4 @@
-# A novel multiscale framework for delineating cancer evolution from subclonal compositions
+# Delineating cancer evolution from subclonal compositions
 
 This is the full code for Manuscript "A novel multiscale framework for delineating cancer evolution from subclonal compositions"
 
