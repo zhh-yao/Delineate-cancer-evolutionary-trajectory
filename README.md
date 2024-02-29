@@ -6,4 +6,4 @@ The file 'Figure_x' includes the codes involved in drawing different panels of F
 
 The file 'Figure_suppl_methods_results' includes the codes used to calculate outcomes involved in supplementary methods and supplementary results.
 
-The manuscript has now been published in the Journal of Theoretical Biology. Find it through https://doi.org/10.1016/j.jtbi.2024.111743.
+The manuscript has now been published in the Journal of Theoretical Biology. Find it [HERE](https://doi.org/10.1016/j.jtbi.2024.111743).
